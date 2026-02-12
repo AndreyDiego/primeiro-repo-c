@@ -1,6 +1,7 @@
- #include <stdio.h>
+ #include <stdio.h> // Entrada e saida
 
 int main() {
-    printf("Hello, World!\n");
-    return 0;
+ // Mostra a informação na tela
+    printf("Hello, World!");
+    return 0; // Mostra que o programa acabou com sucesso
 }

@@ -5,7 +5,7 @@ no código:
 
 int main() { 
     // Mostra a informação na tela
-    printf("Hello, World");
+    printf("Hello,  World");
 
     return 0; // Mostra que o programa acabou com sucesso
 }
